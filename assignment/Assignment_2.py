@@ -164,14 +164,3 @@ for i in range(len(str_and_num)):
         pass
 print("String of alphabets",string)
 print("String of numbers",numbers)
-
-        
-        
-
-
-
-
-
-
-
-
