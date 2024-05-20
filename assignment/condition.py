@@ -12,4 +12,7 @@ def condition(arg,cond):
     value = list(dic.values())
     for i in value:
         i in nest
-        
+        cond(i)
+def cond(arg):
+    arg = arg%2
+    lam
